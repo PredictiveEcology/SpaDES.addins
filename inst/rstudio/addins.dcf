@@ -1,0 +1,4 @@
+Name: SpaDES: load_all
+Description: Reload 'SpaDES' from source (~/GitHub/SpaDES)
+Binding: addin_loadAllSpaDES
+Interactive: false

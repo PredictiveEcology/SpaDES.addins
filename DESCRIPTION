@@ -1,0 +1,23 @@
+Package: SpaDES.addins
+Type: Package
+Title: Development tools for 'SpaDES' and 'SpaDES' modules
+Description: Tools and RStudio addins for 'SpaDES' and 'SpaDES' module development.
+URL: https://github.com/PredictiveEcology/SpaDES.devtools
+Version: 0.1.0
+Date: 2017-05-12
+Authors@R: c(
+    person(c("Alex", "M"), "Chubaty", email = "alexander.chubaty@canada.ca",
+    role = c("aut", "cre"))
+    )
+Imports:
+    devtools
+Suggests:
+    knitr,
+    rmarkdown
+License: GPL-3
+BugReports: https://github.com/PredictiveEcology/SpaDES.devtools/issues
+ByteCompile: yes
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr, rmarkdown
+RoxygenNote: 6.0.1

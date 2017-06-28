@@ -9,7 +9,7 @@ if (getRversion() >= "3.1.0") {
 #' @importFrom SpaDES copyModule openModules
 #' @author Alex Chubaty
 #'
-addin_CopyModule <- function() { # nolint
+addin_copyModule <- function() { # nolint
   ## UI component of the shiny gadget
   ui <- miniPage(
     gadgetTitleBar("Copy an existing module"),

@@ -6,7 +6,7 @@ if (getRversion() >= "3.1.0") {
 #'
 #' @importFrom miniUI gadgetTitleBar miniContentPanel miniPage
 #' @importFrom shiny dialogViewer observeEvent reactive runGadget selectInput textInput stopApp
-#' @importFrom SpaDES copyModule openModules
+#' @importFrom SpaDES.core copyModule openModules
 #' @author Alex Chubaty
 #'
 addin_copyModule <- function() { # nolint
@@ -39,7 +39,7 @@ addin_copyModule <- function() { # nolint
 #' @importFrom magrittr %>%
 #' @importFrom miniUI gadgetTitleBar miniContentPanel miniPage
 #' @importFrom shiny conditionalPanel dialogViewer observeEvent reactive runGadget selectInput textInput stopApp
-#' @importFrom SpaDES newModule
+#' @importFrom SpaDES.core newModule
 #' @importFrom stringi stri_trim
 #' @author Alex Chubaty
 #'

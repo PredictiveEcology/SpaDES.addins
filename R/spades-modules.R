@@ -17,7 +17,8 @@ addin_copyModule <- function() { # nolint
       textInput("fromName", "Module name:", width = "100%"),
       textInput("toName", "New module name:", width = "100%"),
       textInput("filePath", "Module directory path:",
-                value = normalizePath(getOption("spades.modulePath"), winslash = "/", mustWork = FALSE),
+                value = normalizePath(getOption("spades.modulePath"),
+                                      winslash = "/", mustWork = FALSE),
                 width = "100%")
     )
   )
@@ -38,7 +39,8 @@ addin_copyModule <- function() { # nolint
 #'
 #' @importFrom magrittr %>%
 #' @importFrom miniUI gadgetTitleBar miniContentPanel miniPage
-#' @importFrom shiny conditionalPanel dialogViewer observeEvent reactive runGadget selectInput textInput stopApp
+#' @importFrom shiny conditionalPanel dialogViewer observeEvent reactive runGadget
+#' @importFrom shiny selectInput textInput stopApp
 #' @importFrom SpaDES.core newModule
 #' @importFrom stringi stri_trim
 #' @author Alex Chubaty
@@ -50,7 +52,8 @@ addin_newModule <- function() { #nolint
     miniContentPanel(
       textInput("moduleName", "Module name:", width = "100%"),
       textInput("filePath", "Module directory path:",
-                value = normalizePath(getOption("spades.modulePath"), winslash = "/", mustWork = FALSE),
+                value = normalizePath(getOption("spades.modulePath"),
+                                      winslash = "/", mustWork = FALSE),
                 width = "100%"),
       selectInput("moduleType", "Module type:", list("child", "parent"), "child"),
       conditionalPanel(

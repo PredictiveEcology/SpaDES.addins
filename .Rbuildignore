@@ -3,4 +3,6 @@
 ^\.travis\.yml$
 ^appveyor\.yml$
 cran-comments\.md
+^docs$
 LICENSE
+

@@ -1,6 +1,8 @@
 # SpaDES.addins
 
-Tools and RStudio addins for 'SpaDES' and 'SpaDES' module development.
+## Development tools for `SpaDES` and `SpaDES` modules
+
+Tools and RStudio addins for `SpaDES` and `SpaDES` module development.
 
 [![Build Status](https://travis-ci.org/PredictiveEcology/SpaDES.addins.svg?branch=master)](https://travis-ci.org/PredictiveEcology/SpaDES.addins)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2fxqhgk6miv2fytd/branch/master?svg=true)](https://ci.appveyor.com/project/achubaty/SpaDES.addins/branch/master)

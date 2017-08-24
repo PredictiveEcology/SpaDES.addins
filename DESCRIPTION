@@ -6,7 +6,7 @@ URL:
     https://predictiveecology.github.io/SpaDES.addins/,
     https://github.com/PredictiveEcology/SpaDES.addins
 Version: 0.1.0
-Date: 2017-08-23
+Date: 2017-08-24
 Authors@R: c(
     person(c("Alex", "M"), "Chubaty", email = "alexander.chubaty@canada.ca",
     role = c("aut", "cre"))
@@ -25,7 +25,8 @@ Remotes:
     PredictiveEcology/SpaDES.core
 Suggests:
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat
 License: GPL-3
 BugReports: https://github.com/PredictiveEcology/SpaDES.addins/issues
 ByteCompile: yes

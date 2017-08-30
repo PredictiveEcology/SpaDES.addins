@@ -11,7 +11,7 @@ test_that("spelling errors", {
 
   if (interactive()) {
     ## add custom words to package dictionary
-    words <- c("SpaDES")
+    words <- c("addin", "addins", "RStudio", "SpaDES")
     saveRDS(words, wordsFile)
   }
 

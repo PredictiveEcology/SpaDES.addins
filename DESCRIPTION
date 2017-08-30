@@ -1,15 +1,18 @@
 Package: SpaDES.addins
 Type: Package
 Title: Development Tools for 'SpaDES' and 'SpaDES' Modules
-Description: Tools and RStudio addins for 'SpaDES' and 'SpaDES' module development.
+Description: Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
+    development.
 URL: 
     https://predictiveecology.github.io/SpaDES.addins/,
     https://github.com/PredictiveEcology/SpaDES.addins
 Version: 0.1.0
-Date: 2017-08-24
+Date: 2017-08-30
 Authors@R: c(
-    person(c("Alex", "M"), "Chubaty", email = "alexander.chubaty@canada.ca",
-    role = c("aut", "cre"))
+    person("Alex M", "Chubaty", email = "alexander.chubaty@canada.ca",
+    role = c("aut", "cre")),
+    person("Her Majesty the Queen in Right of Canada, as represented by the Minister of Natural Resources Canada",
+    role = "cph")
     )
 Depends:
     R (>= 3.3.2)

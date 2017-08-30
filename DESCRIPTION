@@ -2,7 +2,7 @@ Package: SpaDES.addins
 Type: Package
 Title: Development Tools for 'SpaDES' and 'SpaDES' Modules
 Description: Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
-    development.
+    development. See '?SpaDES.addins' for an overview of the tools provided.
 URL: 
     https://predictiveecology.github.io/SpaDES.addins/,
     https://github.com/PredictiveEcology/SpaDES.addins

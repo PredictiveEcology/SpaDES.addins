@@ -19,11 +19,11 @@ This is a spin off of an existing CRAN package (`SpaDES`), which we have split d
 * Windows 7            (local), R 3.4.1
 
 ### Development R version
-* Debian:testing (rocker/r-devel), R 3.5.0 (2017-07-26 r72972)
-* Ubuntu 14.04        (travis-ci), R 3.5.0 (2017-08-28 r73148)
-* Ubuntu 16.04            (local), R 3.5.0 (2017-08-28 r73148)
-* Windows              (appveyor), R 3.5.0 (2017-08-27 r73146)
-* Windows           (win-builder), R 3.5.0 (2017-08-27 r73145)
+* Debian:testing  (rocker/drd), R 3.5.0 (2017-08-29 r73156)
+* Ubuntu 14.04     (travis-ci), R 3.5.0 (2017-08-31 r73164)
+* Ubuntu 16.04         (local), R 3.5.0 (2017-08-30 r73162)
+* Windows           (appveyor), R 3.5.0 (2017-08-30 r73162)
+* Windows        (win-builder), R 3.5.0 (2017-08-30 r73162)
 
 ## R CMD check results
 

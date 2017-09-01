@@ -2,7 +2,7 @@
 
 This is a spin off of an existing CRAN package (`SpaDES`), which we have split due to growing package size.
 
-Please note that package installation errors (and therefore package test errors) on R-oldrel are caused by failures in dependency package `DiagrammeR`, whose recent update depends on `grDevices >= 3.4.0` (see https://cran.r-project.org/web/checks/check_results_DiagrammeR.html)
+Please note that package installation errors (and therefore package test errors) on R-oldrel are caused by failures in dependency package `DiagrammeR`, whose recent update (0.9.1) depends on `grDevices >= 3.4.0` (see https://cran.r-project.org/web/checks/check_results_DiagrammeR.html)
 We have raised the issue with the package maintainer.
 
 ## Test environments
@@ -23,9 +23,9 @@ We have raised the issue with the package maintainer.
 
 ### Development R version
 * Debian:testing  (rocker/drd), R 3.5.0 (2017-08-29 r73156)
-* Ubuntu 14.04     (travis-ci), R 3.5.0 (2017-08-31 r73164)
+* Ubuntu 14.04     (travis-ci), R 3.5.0 (2017-09-01 r73175)
 * Ubuntu 16.04         (local), R 3.5.0 (2017-08-30 r73162)
-* Windows           (appveyor), R 3.5.0 (2017-08-30 r73162)
+* Windows           (appveyor), R 3.5.0 (2017-08-31 r73162)
 * Windows        (win-builder), R 3.5.0 (2017-08-30 r73162)
 
 ## R CMD check results

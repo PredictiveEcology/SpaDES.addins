@@ -3,7 +3,6 @@
 importFrom(SpaDES.core,copyModule)
 importFrom(SpaDES.core,newModule)
 importFrom(SpaDES.core,openModules)
-importFrom(devtools,load_all)
 importFrom(magrittr,"%>%")
 importFrom(miniUI,gadgetTitleBar)
 importFrom(miniUI,miniContentPanel)

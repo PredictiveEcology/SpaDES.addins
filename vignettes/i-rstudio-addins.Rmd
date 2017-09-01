@@ -54,7 +54,3 @@ To copy an existing module, simply invoke the *SpaDES: copy module* addin from t
 # `SpaDES` package development (advanced)
 
 More advanced users planning on contributing code to the `SpaDES` ecosystem of packages, can make use of additional package development tools.
-
-## *SpaDES: load_all*
-
-Provides a wrapper around `devtools::load_all()`, to be used for binding an RStudio keyboard shortcut. By default, this will load the `SpaDES.core` package.

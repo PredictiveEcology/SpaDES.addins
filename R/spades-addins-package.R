@@ -31,15 +31,5 @@
 #'   \item \emph{none yet}
 #' }
 #'
-#' @section Package options:
-#'
-#' #' \code{SpaDES} packages use the following \code{\link{options}} to configure behaviour:
-#'
-#' \itemize{
-#'   \item \code{spades.loadpkgs}: The default packages to load using the
-#'   \emph{SpaDES: load all} addin. Should be a path to a package's source directory.
-#'   Default is \code{"~/GitHub/SpaDES.core"}.
-#' }
-#'
 #' @rdname spades-addins-package
 "_PACKAGE"

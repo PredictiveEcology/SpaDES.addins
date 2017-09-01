@@ -2,6 +2,9 @@
 
 This is a spin off of an existing CRAN package (`SpaDES`), which we have split due to growing package size.
 
+Please note that package installation errors (and therefore package test errors) on R-oldrel are caused by failures in dependency package `DiagrammeR`, whose recent update depends on `grDevices >= 3.4.0` (see https://cran.r-project.org/web/checks/check_results_DiagrammeR.html)
+We have raised the issue with the package maintainer.
+
 ## Test environments
 
 ### Previous R versions

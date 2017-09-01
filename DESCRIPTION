@@ -9,7 +9,7 @@ URL:
 Version: 0.1.0
 Date: 2017-09-01
 Authors@R: c(
-    person("Alex M", "Chubaty", email = "alexander.chubaty@canada.ca",
+    person("Alex M", "Chubaty", email = "alex.chubaty@gmail.com",
     role = c("aut", "cre")),
     person("Her Majesty the Queen in Right of Canada, as represented by the Minister of Natural Resources Canada",
     role = "cph")

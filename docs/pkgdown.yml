@@ -1,6 +1,6 @@
 urls:
-  reference: https://predictiveecology.github.io/SpaDES.addins/reference
-  article: https://predictiveecology.github.io/SpaDES.addins/articles
+  reference: https://spades-addins.predictiveecology.org//reference
+  article: https://spades-addins.predictiveecology.org//articles
 articles:
   i-rstudio-addins: i-rstudio-addins.html
 

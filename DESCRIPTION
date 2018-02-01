@@ -6,7 +6,7 @@ Description: Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
 URL: 
     http://spades-addins.predictiveecology.org/,
     https://github.com/PredictiveEcology/SpaDES.addins
-Version: 0.1.0.9000
+Version: 0.1.1
 Date: 2018-02-01
 Authors@R: c(
     person("Alex M", "Chubaty", email = "alex.chubaty@gmail.com",

@@ -7,7 +7,7 @@ URL:
     http://spades-addins.predictiveecology.org/,
     https://github.com/PredictiveEcology/SpaDES.addins
 Version: 0.1.2
-Date: 2018-06-07
+Date: 2018-11-28
 Authors@R: c(
     person("Alex M", "Chubaty", email = "alex.chubaty@gmail.com",
     role = c("aut", "cre"), comment = c(ORCID = "https://orcid.org/0000-0001-7146-8135")),
@@ -20,6 +20,7 @@ Imports:
     devtools,
     magrittr,
     miniUI (>= 0.1.1),
+    reproducible,
     rstudioapi (>= 0.5),
     shiny (>= 0.13),
     SpaDES.core,
@@ -34,4 +35,4 @@ ByteCompile: yes
 Encoding: UTF-8
 LazyData: true
 VignetteBuilder: knitr, rmarkdown
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0.9000

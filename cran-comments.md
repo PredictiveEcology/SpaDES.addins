@@ -15,13 +15,12 @@ This release fixes compatibility with r-oldrel (now compatible with R 3.3.0).
 * Windows              (appveyor), R 3.4.0
 
 ### Current R versions
-* macOS High Sierra    (local), R 3.5.0
+* macOS High Sierra    (local), R 3.5.1
 * OS X El Capitan  (travis-ci), R 3.5.0
-* Ubuntu 14.04     (travis-ci), R 3.5.0
-* Ubuntu 18.04         (local), R 3.5.0
-* Windows           (appveyor), R 3.5.0
-* Windows        (win-builder), R 3.5.0
-* Windows 7            (local), R 3.5.0
+* Ubuntu 14.04     (travis-ci), R 3.5.1
+* Ubuntu 18.04         (local), R 3.5.1
+* Windows           (appveyor), R 3.5.1
+* Windows        (win-builder), R 3.5.1
 
 ### Development R version
 * Ubuntu 14.04     (travis-ci), R 3.6.0 (2018-06-05 r74851)

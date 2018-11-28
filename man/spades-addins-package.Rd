@@ -51,7 +51,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Alex M Chubaty \email{alex.chubaty@gmail.com}
+\strong{Maintainer}: Alex M Chubaty \email{alex.chubaty@gmail.com} (https://orcid.org/0000-0001-7146-8135)
 
 Other contributors:
 \itemize{

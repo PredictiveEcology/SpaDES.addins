@@ -1,44 +1,34 @@
-# Setup
+# Platform
 
-## Platform
-
-|setting  |value                        |
+|field    |value                        |
 |:--------|:----------------------------|
-|version  |R version 3.4.3 (2017-11-30) |
-|system   |x86_64, darwin15.6.0         |
-|ui       |RStudio (1.1.419)            |
-|language |(EN)                         |
+|version  |R version 3.5.2 (2018-12-20) |
+|os       |Ubuntu 18.04.1 LTS           |
+|system   |x86_64, linux-gnu            |
+|ui       |RStudio                      |
+|language |en_CA                        |
 |collate  |en_CA.UTF-8                  |
+|ctype    |en_CA.UTF-8                  |
 |tz       |America/Edmonton             |
-|date     |2018-02-01                   |
+|date     |2019-02-01                   |
 
-## Packages
+# Dependencies
 
-|package       |*  |version |date       |source                                     |
-|:-------------|:--|:-------|:----------|:------------------------------------------|
-|devtools      |*  |1.13.4  |2017-11-09 |cran (@1.13.4)                             |
-|knitr         |   |1.19    |2018-01-29 |cran (@1.19)                               |
-|magrittr      |   |1.5     |2014-11-22 |cran (@1.5)                                |
-|miniUI        |   |0.1.1   |2016-01-15 |cran (@0.1.1)                              |
-|rmarkdown     |   |1.8     |2017-11-17 |cran (@1.8)                                |
-|rstudioapi    |   |0.7     |2017-09-07 |cran (@0.7)                                |
-|shiny         |   |1.0.5   |2017-08-23 |cran (@1.0.5)                              |
-|SpaDES.addins |   |0.1.1   |2018-02-01 |local (PredictiveEcology/SpaDES.addins@NA) |
-|SpaDES.core   |   |0.1.1   |2018-01-29 |cran (@0.1.1)                              |
-|stringi       |   |1.1.6   |2017-11-17 |cran (@1.1.6)                              |
-|testthat      |   |2.0.0   |2017-12-13 |cran (@2.0.0)                              |
+|package       |old   |new   |Δ  |
+|:-------------|:-----|:-----|:--|
+|SpaDES.addins |0.1.1 |0.1.3 |*  |
 
-# Check results
+# Revdeps
 
-1 packages
+## Couldn't check (1)
 
-|package |version | errors| warnings| notes|
-|:-------|:-------|------:|--------:|-----:|
-|SpaDES  |2.0.1   |      0|        0|     0|
+|package                      |version |error |warning |note |
+|:----------------------------|:-------|:-----|:-------|:----|
+|[SpaDES](problems.md#spades) |2.0.2   |1     |        |     |
 
-## SpaDES (2.0.1)
-Maintainer: Alex M Chubaty <alexander.chubaty@canada.ca>  
-Bug reports: https://github.com/PredictiveEcology/SpaDES/issues
+## All (1)
 
-0 errors | 0 warnings | 0 notes
+|package                      |version |error |warning |note |
+|:----------------------------|:-------|:-----|:-------|:----|
+|[SpaDES](problems.md#spades) |2.0.2   |1     |        |     |
 

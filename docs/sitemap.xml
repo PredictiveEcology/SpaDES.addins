@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//index.html</loc>
+  </url>
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//reference/addin_clearCache.html</loc>
+  </url>
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//reference/addin_copyModule.html</loc>
+  </url>
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//reference/addin_newModule.html</loc>
+  </url>
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//reference/spades-addins-package.html</loc>
+  </url>
+  <url>
+    <loc>http://spades-addins.predictiveecology.org//articles/i-rstudio-addins.html</loc>
+  </url>
+</urlset>

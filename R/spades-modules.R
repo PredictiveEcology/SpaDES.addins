@@ -5,7 +5,7 @@ if (getRversion() >= "3.1.0") {
 #' RStudio addin to copy an existing module
 #'
 #' @importFrom miniUI gadgetTitleBar miniContentPanel miniPage
-#' @importFrom shiny dialogViewer observeEvent reactive runGadget selectInput textInput stopApp
+#' @importFrom shiny dialogViewer observeEvent runGadget textInput stopApp
 #' @importFrom SpaDES.core copyModule openModules
 #' @author Alex Chubaty
 #'

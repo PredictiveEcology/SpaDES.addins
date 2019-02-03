@@ -6,23 +6,24 @@ This release fixes compatibility with r-oldrel (now compatible with R 3.3.0).
 
 ### Previous R versions
 * Ubuntu 14.04        (travis-ci), R 3.3.3
+* Ubuntu 14.04        (travis-ci), R 3.4.4
 * Windows              (appveyor), R 3.3.3
-* Windows 7               (local), R 3.3.3
+* Windows              (appveyor), R 3.4.4
 
 ### Current R versions
-* macOS Sierra         (local), R 3.4.3
-* OS X El Capitan  (travis-ci), R 3.4.3
-* Ubuntu 14.04     (travis-ci), R 3.4.3
-* Ubuntu 16.04         (local), R 3.4.3
-* Windows           (appveyor), R 3.4.3
-* Windows        (win-builder), R 3.4.3
-* Windows 7            (local), R 3.4.3
+* macOS Mojave       (travis-ci), R 3.5.2
+* macOS Mojave           (local), R 3.5.2
+* Ubuntu 14.04       (travis-ci), R 3.5.2
+* Ubuntu 18.04           (local), R 3.5.2
+* Windows             (appveyor), R 3.5.2
+* Windows          (win-builder), R 3.5.2
+* Windows 7              (local), R 3.5.2
 
 ### Development R version
-* Ubuntu 14.04     (travis-ci), R 3.5.0 (2018-02-01 r74192)
-* Ubuntu 16.04         (local), R 3.5.0 (2018-02-01 r74192)
-* Windows           (appveyor), R 3.5.0 (2018-02-01 r74192)
-* Windows        (win-builder), R 3.5.0 (2018-02-01 r74192)
+* Ubuntu 14.04       (travis-ci), R 3.6.0 (2019-01-29 r76025)
+* Ubuntu 18.04           (local), R 3.6.0 (2019-01-25 r76014)
+* Windows             (appveyor), R 3.6.0 (2019-01-26 r76018)
+* Windows          (win-builder), R 3.6.0 (2019-01-27 r76018)
 
 ## R CMD check results
 

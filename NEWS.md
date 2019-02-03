@@ -4,6 +4,7 @@ version 0.1.2
 =============
 
 * new `clearCache` addin.
+* fix spelling errors in vignette.
 
 version 0.1.1
 =============

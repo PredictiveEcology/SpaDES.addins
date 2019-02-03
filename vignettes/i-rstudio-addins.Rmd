@@ -26,7 +26,7 @@ After installing the `SpaDES.addins` package, go to the Addins menu in the RStud
 
 ![](figures/screenshot_menu.png)
 
-You can assign keybord shortcuts to any of these addins if you wish.
+You can assign keyboard shortcuts to any of these addins if you wish.
 See https://rstudio.github.io/rstudioaddins/#running-addins.
 
 ## `SpaDES` module directory
@@ -41,7 +41,7 @@ Thus, only a single module directory is specified when using these addins.
 
 ## Copy an existing module
 
-The simplest way to get started on developing a `SpaDES` module, is to start from an exsiting module.
+The simplest way to get started on developing a `SpaDES` module, is to start from an existing module.
 Anytime you wish to modify an existing module, we suggest working from a copy, rather than modifying the existing module directly.
 To copy an existing module, simply invoke the *SpaDES: copy module* addin from the RStudio Addins menu.
 

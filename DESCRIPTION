@@ -29,9 +29,6 @@ Suggests:
     knitr,
     rmarkdown,
     testthat
-Remotes:
-    PredictiveEcology/reproducible@development,
-    PredictiveEcology/SpaDES.core@development
 License: GPL-3
 BugReports: https://github.com/PredictiveEcology/SpaDES.addins/issues
 ByteCompile: yes

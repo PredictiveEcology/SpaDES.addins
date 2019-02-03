@@ -1,6 +1,6 @@
 ## Resubmission
 
-This release fixes compatibility with r-oldrel (now compatible with R 3.3.0).
+This is a maintenance release. See NEWS.
 
 ## Test environments
 

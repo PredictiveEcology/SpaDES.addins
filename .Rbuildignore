@@ -2,10 +2,10 @@
 ^\.Rproj\.user$
 ^_pkgdown\.yml$
 ^\.lintr$
-^\.travis\.yml$
-^appveyor\.yml$
 ^cran-comments\.md$
 ^CONTRIBUTING\.md$
 ^docs$
 ^LICENSE$
 ^revdep$
+^\.github$
+^codecov\.yml$

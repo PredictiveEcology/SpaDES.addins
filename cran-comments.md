@@ -1,29 +1,32 @@
-## Resubmission
+## Updated release
 
-This is a maintenance release. See NEWS.
+This release is to restore this package on CRAN following removal of dependencies `reproducible`, `SpaDES.core` (which have now been restored on CRAN).
+Please note, the CRAN URL to a package vignette will work once the package is restored.
+See `NEWS.md` for a full list of changes.
 
 ## Test environments
 
 ### Previous R versions
-* Ubuntu 14.04        (travis-ci), R 3.3.3
-* Ubuntu 14.04        (travis-ci), R 3.4.4
-* Windows              (appveyor), R 3.3.3
-* Windows              (appveyor), R 3.4.4
+* Ubuntu 20.04                 (GitHub), R 3.6.3
+* Ubuntu 20.04                 (GitHub), R 4.0.5
+* Windows                      (GitHub), R 3.6.3
+* Windows                      (GitHub), R 4.0.5
+* Windows                 (win-builder), R 4.0.5
 
 ### Current R versions
-* macOS Mojave       (travis-ci), R 3.5.2
-* macOS Mojave           (local), R 3.5.2
-* Ubuntu 14.04       (travis-ci), R 3.5.2
-* Ubuntu 18.04           (local), R 3.5.2
-* Windows             (appveyor), R 3.5.2
-* Windows          (win-builder), R 3.5.2
-* Windows 7              (local), R 3.5.2
+* macOS 10.15.7 Catalina       (GitHub), R 4.1.0
+* macOS 11.1 Big Sur            (local), R 4.1.0
+* Ubuntu 20.04                 (GitHub), R 4.1.0
+* Ubuntu 20.04                  (local), R 4.1.0
+* Windows                      (GitHub), R 4.1.0
+* Windows                       (local), R 4.1.0
+* Windows                 (win-builder), R 4.1.0
 
 ### Development R version
-* Ubuntu 14.04       (travis-ci), R 3.6.0 (2019-01-29 r76025)
-* Ubuntu 18.04           (local), R 3.6.0 (2019-01-25 r76014)
-* Windows             (appveyor), R 3.6.0 (2019-01-26 r76018)
-* Windows          (win-builder), R 3.6.0 (2019-01-27 r76018)
+* Ubuntu 20.04                 (GitHub), R-devel (2021-06-07 r80458)
+* Ubuntu 20.04                  (local), R-devel (2021-05-31 r80426)
+* Windows                      (GitHub), R-devel (2021-06-07 r80458)
+* Windows                 (win-builder), R-devel (2021-06-07 r80458)
 
 ## R CMD check results
 
@@ -42,4 +45,4 @@ There was 1 NOTE:
 
 We have run R CMD check on downstream dependencies, with no ERRORs nor WARNINGs.
 
-See https://github.com/PredictiveEcology/SpaDES.addins/blob/master/revdep/README.md
+See <https://github.com/PredictiveEcology/SpaDES.addins/blob/master/revdep/README.md>

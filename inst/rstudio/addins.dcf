@@ -8,11 +8,6 @@ Description: Copy an existing 'SpaDES' module
 Binding: addin_copyModule
 Interactive: true
 
-Name: SpaDES: load_all
-Description: Reload 'SpaDES' from source (~/GitHub/SpaDES)
-Binding: addin_loadAll
-Interactive: false
-
 Name: SpaDES: new module
 Description: Create a new 'SpaDES' module
 Binding: addin_newModule

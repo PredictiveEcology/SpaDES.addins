@@ -1,32 +1,32 @@
 ## Updated release
 
-This release is to restore this package on CRAN following removal of dependencies `reproducible`, `SpaDES.core` (which have now been restored on CRAN).
-Please note, the CRAN URL to a package vignette will work once the package is restored.
+This version drops support for older R versions (< 4.0).
 See `NEWS.md` for a full list of changes.
 
 ## Test environments
 
 ### Previous R versions
-* Ubuntu 20.04                 (GitHub), R 3.6.3
 * Ubuntu 20.04                 (GitHub), R 4.0.5
-* Windows                      (GitHub), R 3.6.3
+* Ubuntu 20.04                 (GitHub), R 4.1.3
 * Windows                      (GitHub), R 4.0.5
-* Windows                 (win-builder), R 4.0.5
+* Windows                      (GitHub), R 4.1.3
+* Windows                 (win-builder), R 4.1.3
 
 ### Current R versions
-* macOS 10.15.7 Catalina       (GitHub), R 4.1.0
-* macOS 11.1 Big Sur            (local), R 4.1.0
-* Ubuntu 20.04                 (GitHub), R 4.1.0
-* Ubuntu 20.04                  (local), R 4.1.0
-* Windows                      (GitHub), R 4.1.0
-* Windows                       (local), R 4.1.0
-* Windows                 (win-builder), R 4.1.0
+* macOS 11.6 Big Sur           (GitHub), R 4.2.1
+* macOS 11.6 Big Sur            (local), R 4.2.1
+* macOs (m1) Big Sur             (rhub), R 4.2.1
+* Ubuntu 20.04                 (GitHub), R 4.2.1
+* Ubuntu 20.04                  (local), R 4.2.1
+* Windows                      (GitHub), R 4.2.1
+* Windows                       (local), R 4.2.1
+* Windows                 (win-builder), R 4.2.1
 
 ### Development R version
-* Ubuntu 20.04                 (GitHub), R-devel (2021-06-07 r80458)
-* Ubuntu 20.04                  (local), R-devel (2021-05-31 r80426)
-* Windows                      (GitHub), R-devel (2021-06-07 r80458)
-* Windows                 (win-builder), R-devel (2021-06-07 r80458)
+* Ubuntu 20.04                 (GitHub), R-devel (2022-08-18 r82725)
+* Ubuntu 20.04                  (local), R-devel (2022-08-18 r82725)
+* Windows                      (GitHub), R-devel (2022-08-18 r82725 ucrt)
+* Windows                 (win-builder), R-devel (2022-08-18 r82725 ucrt)
 
 ## R CMD check results
 

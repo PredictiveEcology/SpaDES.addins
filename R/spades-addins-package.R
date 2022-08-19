@@ -1,35 +1,25 @@
-#' The \code{SpaDES.addins} package
+#' The `SpaDES.addins` package
 #'
 #' Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module development.
 #'
-#' @section \code{SpaDES} module development:
+#' \if{html}{\figure{SpaDES.png}{options: width=100 alt="SpaDES logo" style="float: right;"}}
+#' \if{latex}{\figure{SpaDES.png}{options: width=0.5in}}
 #'
-#' \strong{RStudio addins:}
+#' @section `SpaDES` module development:
 #'
-#' \itemize{
-#'   \item copy an existing \code{SpaDES} module
-#'   \item create a new \code{SpaDES} module
-#' }
+#' **RStudio addins:**
 #'
-#' \strong{helper functions:}
+#' - copy an existing `SpaDES` module
+#' - create a new `SpaDES` module
+#' - clear recent simulation cache entries
 #'
-#' \itemize{
-#'   \item \emph{none yet}
-#' }
+#' **helper functions:**
 #'
-#' @section \code{SpaDES} package development:
-#'
-#' \strong{RStudio addins:}
-#'
-#' \itemize{
-#'   \item load the development version of \pkg{SpaDES} from \file{~/GitHub/SpaDES}.
-#' }
-#'
-#' \strong{helper functions:}
-#'
-#' \itemize{
-#'   \item \emph{none yet}
-#' }
+#' - *none yet*
 #'
 #' @rdname spades-addins-package
 "_PACKAGE"
+
+## import something so R CMD check stops complaining
+#' @importFrom rstudioapi isAvailable
+NULL

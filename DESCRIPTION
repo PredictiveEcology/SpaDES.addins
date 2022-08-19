@@ -4,7 +4,7 @@ Title: Development Tools for 'SpaDES' and 'SpaDES' Modules
 Description: Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
     development. See '?SpaDES.addins' for an overview of the tools provided.
 URL: 
-    http://spades-addins.predictiveecology.org/,
+    https://spades-addins.predictiveecology.org/,
     https://github.com/PredictiveEcology/SpaDES.addins
 Version: 0.1.4
 Date: 2022-08-19

@@ -19,7 +19,7 @@ Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module development.
 \itemize{
 \item copy an existing \code{SpaDES} module
 \item create a new \code{SpaDES} module
-\item clear recent cache entries
+\item clear recent simulation cache entries
 }
 
 \strong{helper functions:}

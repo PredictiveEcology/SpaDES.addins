@@ -31,7 +31,7 @@ Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module development.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{http://spades-addins.predictiveecology.org/}
+  \item \url{https://spades-addins.predictiveecology.org/}
   \item \url{https://github.com/PredictiveEcology/SpaDES.addins}
   \item Report bugs at \url{https://github.com/PredictiveEcology/SpaDES.addins/issues}
 }

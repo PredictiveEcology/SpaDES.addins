@@ -6,7 +6,7 @@
 [![R build status](https://github.com/PredictiveEcology/SpaDES.addins/workflows/R-CMD-check/badge.svg)](https://github.com/PredictiveEcology/SpaDES.addins/actions)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
 [![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
-[![Codecov test coverage](https://codecov.io/gh/PredictiveEcology/SpaDES.addins/branch/master/graph/badge.svg)](https://codecov.io/gh/PredictiveEcology/SpaDES.addins?branch=master)
+[![Codecov test coverage](https://codecov.io/gh/PredictiveEcology/SpaDES.addins/branch/master/graph/badge.svg)](https://app.codecov.io/gh/PredictiveEcology/SpaDES.addins?branch=master)
 <!-- badges: end -->
 
 Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module development.

@@ -1,10 +1,17 @@
 Known issues: <https://github.com/PredictiveEcology/SpaDES.addins/issues>
 
+version 0.1.4
+=============
+
+* Drop support for R 3.6, as it is no longer supported by several dependencies.
+* remove unused dependency `devtools`.
+* minor fixes.
+
 version 0.1.3
 =============
 
 * Dropped support for R 3.5 due to changes in dependency packages. R versions 3.6 and higher are supported.
-* minor fixes
+* minor fixes.
 
 version 0.1.2
 =============

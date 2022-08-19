@@ -8,36 +8,23 @@
 \description{
 Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module development.
 }
+\details{
+\if{html}{\figure{SpaDES.png}{options: width=100 alt="SpaDES logo" style="float: right;"}}
+\if{latex}{\figure{SpaDES.png}{options: width=0.5in}}
+}
 \section{\code{SpaDES} module development}{
 
 
 \strong{RStudio addins:}
-
 \itemize{
-  \item copy an existing \code{SpaDES} module
-  \item create a new \code{SpaDES} module
+\item copy an existing \code{SpaDES} module
+\item create a new \code{SpaDES} module
+\item clear recent cache entries
 }
 
 \strong{helper functions:}
-
 \itemize{
-  \item \emph{none yet}
-}
-}
-
-\section{\code{SpaDES} package development}{
-
-
-\strong{RStudio addins:}
-
-\itemize{
-  \item load the development version of \pkg{SpaDES} from \file{~/GitHub/SpaDES}.
-}
-
-\strong{helper functions:}
-
-\itemize{
-  \item \emph{none yet}
+\item \emph{none yet}
 }
 }
 
@@ -51,7 +38,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Alex M Chubaty \email{alex.chubaty@gmail.com} (\href{https://orcid.org/0000-0001-7146-8135}{ORCID})
+\strong{Maintainer}: Alex M Chubaty \email{achubaty@for-cast.ca} (\href{https://orcid.org/0000-0001-7146-8135}{ORCID})
 
 Other contributors:
 \itemize{

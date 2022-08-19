@@ -4,8 +4,8 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/PredictiveEcology/SpaDES.addins/workflows/R-CMD-check/badge.svg)](https://github.com/PredictiveEcology/SpaDES.addins/actions)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
-[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
+[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SpaDES.addins)](https://cran.r-project.org/package=SpaDES.addins)
 [![Codecov test coverage](https://codecov.io/gh/PredictiveEcology/SpaDES.addins/branch/master/graph/badge.svg)](https://app.codecov.io/gh/PredictiveEcology/SpaDES.addins?branch=master)
 <!-- badges: end -->
 
@@ -17,7 +17,7 @@ See `?SpaDES.addins` or the package vignettes for an overview of the tools provi
 The suggested package `fastshp` can be installed with:
 
 ```{r}
-install.packages("fastshp", repos = "http://rforge.net", type = "source")
+install.packages("fastshp", repos = "https://rforge.net", type = "source")
 ```
 
 Building packages from source requires the appropriate development libraries for your operating system (*e.g.*, Windows users should install [Rtools](https://cran.r-project.org/bin/windows/Rtools/)).

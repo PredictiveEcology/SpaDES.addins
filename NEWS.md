@@ -1,5 +1,9 @@
 Known issues: <https://github.com/PredictiveEcology/SpaDES.addins/issues>
 
+version 0.1.4.9000
+=============
+* fix error in `addin_newModule` (#1).
+
 version 0.1.4
 =============
 

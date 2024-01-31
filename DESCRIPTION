@@ -6,17 +6,17 @@ Description: Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
 URL: 
     https://spades-addins.predictiveecology.org/,
     https://github.com/PredictiveEcology/SpaDES.addins
-Version: 0.1.4
-Date: 2022-08-19
+Version: 0.1.4.9000
+Date: 2024-01-31
 Authors@R: c(
     person("Alex M", "Chubaty", email = "achubaty@for-cast.ca",
            role = c("aut", "cre"), comment = c(ORCID = "0000-0001-7146-8135")),
-    person(paste("Her Majesty the Queen in Right of Canada,",
+    person(paste("His Majesty the King in Right of Canada,",
                  "as represented by the Minister of Natural Resources Canada"),
            role = "cph")
     )
 Depends:
-    R (>= 4.0)
+    R (>= 4.2)
 Imports:
     magrittr,
     miniUI (>= 0.1.1),
@@ -40,4 +40,4 @@ Encoding: UTF-8
 Language: en-CA
 VignetteBuilder: knitr, rmarkdown
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1

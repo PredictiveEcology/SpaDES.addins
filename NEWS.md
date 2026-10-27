@@ -2,7 +2,7 @@ Known issues: <https://github.com/PredictiveEcology/SpaDES.addins/issues>
 
 version 0.1.4.9000
 =============
-* drop support for R 4.0 and 4.1 due to changes in dependency packages;
+* drop support for R < 4.4, the oldest R version its checks run on (#3);
 * fix error in `addin_newModule` (#1).
 
 version 0.1.4

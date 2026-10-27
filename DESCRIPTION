@@ -16,7 +16,7 @@ Authors@R: c(
            role = "cph")
     )
 Depends:
-    R (>= 4.2)
+    R (>= 4.4)
 Imports:
     magrittr,
     miniUI (>= 0.1.1),
